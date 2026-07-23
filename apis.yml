@@ -1,24 +1,73 @@
 aid: backweb
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/backweb.png
 name: BackWeb
-description: 'BackWeb is a company surfaced as a portfolio company of trinity-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise-software. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'BackWeb Technologies Ltd. was an Israeli-American enterprise software company founded in
+  1995 by Eli Barkat, Nir Barkat, Yuval Rakavy, Iftah Sneh and Lior Hass, with offices in Ramat Gan, Israel
+  and San Jose, California. BackWeb pioneered "Polite" push technology — background delivery of software
+  updates, patches, alerts and marketing content to desktops using only idle bandwidth so it did not disrupt
+  the user or the corporate network. Its Polite Communication Server, Offline Access Server, e-Accelerator
+  and Proactive Portal products were deployed by Cisco, Hewlett-Packard, IBM, Ericsson, Compaq and SAP,
+  and integrators used the BackWeb Server Extension API and BackWeb Automation SDK to publish content from
+  external data sources into the Polite server. The company IPO''d on NASDAQ (BWEB) in June 1999 after raising
+  roughly $13M privately from investors including Goldman Sachs, Intel and Trinity Ventures, peaking near
+  $38M in annual revenue. It never recovered from the dot-com collapse, was delisted from NASDAQ and moved
+  to the OTC Bulletin Board, approved a voluntary liquidation in 2012, suspended operations and divested
+  its patents in 2014, and began distributing remaining cash to shareholders. BackWeb is defunct: there
+  is no operating company, no developer portal, and no live API. The backweb.com domain is a parked Afternic
+  for-sale lander. This profile is retained as a historical record only.'
 url: https://raw.githubusercontent.com/api-evangelist/backweb/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - trinity-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-no-api-surface
+x-status: defunct
+x-status-detail: 'Voluntary liquidation approved 2012; operations suspended and patents divested 2014;
+  OTC trading ceased 2014-11-08. No successor entity. Domain backweb.com is parked and listed for sale
+  on Afternic (HTTP 307 redirect to afternic.com/forsale/backweb.com, probed 2026-07-20).'
+x-founded: '1995'
+x-ipo: '1999-06-01'
+x-ticker: BWEB
+x-historical-apis:
+- name: BackWeb Server Extension API
+  description: Integration API allowing the BackWeb Polite Communication Server to be fed by any digital
+    data source. Discontinued with the company; no specification survives publicly.
+- name: BackWeb Automation SDK
+  description: SDK and Automation Editor with APIs and supplied programs bridging the Polite Communication
+    Server and external data sources. Discontinued with the company.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Enterprise Software
+- Push Technology
+- Content Delivery
+- Software Distribution
+- Israel
+- Defunct
+- Historical
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
