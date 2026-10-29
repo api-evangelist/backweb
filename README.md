@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BackWeb is a company surfaced as a portfolio company of trinity-ventures and added to the API Evangelist network as a stub for enrichment. Sector: enterprise-software. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: trinity-ventures
+BackWeb Technologies Ltd. was an Israeli-American enterprise software company founded in 1995 by Eli Barkat, Nir Barkat, Yuval Rakavy, Iftah Sneh and Lior Hass, with offices in Ramat Gan, Israel and San Jose, California. BackWeb pioneered "Polite" push technology — background delivery of software updates, patches, alerts and marketing content to desktops using only idle bandwidth so it did not disrupt the user or the corporate network. Its Polite Communication Server, Offline Access Server, e-Accelerator and Proactive Portal products were deployed by Cisco, Hewlett-Packard, IBM, Ericsson, Compaq and SAP, and integrators used the BackWeb Server Extension API and BackWeb Automation SDK to publish content from external data sources into the Polite server. The company IPO'd on NASDAQ (BWEB) in June 1999 after raising roughly $13M privately from investors including Goldman Sachs, Intel and Trinity Ventures, peaking near $38M in annual revenue. It never recovered from the dot-com collapse, was delisted from NASDAQ and moved to the OTC Bulletin Board, approved a voluntary liquidation in 2012, suspended operations and divested its patents in 2014, and began distributing remaining cash to shareholders. BackWeb is defunct: there is no operating company, no developer portal, and no live API. The backweb.com domain is a parked Afternic for-sale lander. This profile is retained as a historical record only.
+
+**Areas:** Company · Enterprise Software · Push Technology · Content Delivery · Software Distribution · Israel · Defunct · Historical
+
+## BackWeb on APIs.io (historical record)
+
+Everything profiled for BackWeb is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/backweb/](https://apis.io/providers/backweb/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BackWeb: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/backweb/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
